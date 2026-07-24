@@ -1,5 +1,3 @@
-Yes. Here are your **final Day 1 revision notes**, based specifically on what we learned and the misconceptions we corrected during this chat.
-
 # Day 1 — Python Object Model
 
 ## 1. Object
