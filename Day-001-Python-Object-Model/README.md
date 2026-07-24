@@ -1,3 +1,4 @@
+
 # Day 1 — Python Object Model
 
 ## 1. Object
