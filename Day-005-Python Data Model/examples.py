@@ -1754,7 +1754,6 @@ special method call.
                    ▼
 
           Your Object's Behavior
-
 Understanding the Python Data Model means understanding
 how Python itself thinks.
 """
