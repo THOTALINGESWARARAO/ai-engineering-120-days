@@ -1,5 +1,3 @@
-Here are your **Day 8 notes for everything we covered today so far**.
-
 # 🚀 Day 8/120 — NumPy Foundations
 
 ## 1. Why NumPy?
