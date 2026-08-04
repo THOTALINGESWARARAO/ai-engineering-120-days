@@ -264,5 +264,3 @@ Random Module
 
 ---
 
-
-⏳ Detailed Notes (Tomorrow)
