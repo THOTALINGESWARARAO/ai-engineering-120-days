@@ -264,14 +264,5 @@ Random Module
 
 ---
 
-# Status
-
-✅ Initial Notes Added
-
-⏳ Official NumPy Documentation Study
-
-⏳ Practice Examples
-
-⏳ Mini Project
 
 ⏳ Detailed Notes (Tomorrow)
